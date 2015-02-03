@@ -1,0 +1,6 @@
+<Alloy>
+  <Collection id="list" src="chucknorrisquote" instance="true" />
+	<Window>
+		<Label id="label" onClick="doClick">Click me</Label>
+	</Window>
+</Alloy>
